@@ -185,7 +185,7 @@ function Addtocardprodects() {
 
                     </div>
 
-                    {/* prodect all-item-img right*/}
+                    {/* prodect all-item-img right*/} 
 
                     <div className="col-9 p-0  prodect-scroll rounded-3" id="prodect-div-h">
                         {/* row-1 */}
