@@ -1,0 +1,88 @@
+.demoadd{
+  height:auto;
+  /* background:#FB5607; */
+  /* background-image: url("../img/delicious-fast-food-hot-dog-baking-paper-with-cheese.jpg"); */
+  /* background-size: cover; */
+  background: #000;
+}
+.navtext{
+    font-size: 13px;
+    color: black;
+    font-weight: 650;
+    border-radius: 7px;
+}
+.navbutton-r2{
+  box-shadow:5px 5px 15px;
+  font-size: 14px;
+}
+.crudbluelinetext{
+  font-size: 12px;
+  color: black;
+  font-weight: 650;
+}
+/* .itemvalues{
+
+} */
+.crudrow-1-text{
+  font-size: 12px;    
+    font-weight: 500;
+    border-radius: 7px;
+}
+.crudfooter{
+  background-color: rgb(177, 177, 177);
+}
+#prodect-search{
+  font-size: 14px;
+  background: transparent;
+  background-color: rgb(255, 255, 255);
+  opacity: 0.8;
+
+}
+.prodectimg{
+  width: auto;
+  height: 105px;
+}
+.prodect-img-text{
+  font-size: 15px;
+}
+/* #card-h-f{
+  background-color:rgb(206, 206, 206);
+} */
+.prodect-scroll{
+  max-height: 445px;
+  overflow-y: auto;
+  overflow-x:hidden;
+}
+#crud-footer-button{
+  font-size: 14px;    
+  font-weight: 500;
+  border-radius: 7px;
+  box-shadow:5px 5px 10px;
+}
+.prodect-main-h{
+  height: 557px;
+  border-radius: 15px;
+}
+.crud-bottom-blue{
+  background-color: #929494;
+}
+.additem-scroll{
+  max-height: 296px;
+  overflow-y: auto;
+  overflow-x:hidden;
+  background:transparent;
+  background-color: rgb(240, 248, 255);
+}
+.prodect-list-left{
+  height: 100px;
+  width: 100px;
+}
+.cat-list-img{
+  width: 75px;
+  height: 75px;
+}
+/* #prodect-div-h{
+  background-color: aliceblue;
+  opacity: 0.5;
+  border-radius: 15px;
+} */

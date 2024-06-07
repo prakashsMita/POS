@@ -1,0 +1,32 @@
+                // {/* row-2 */}
+                //  <div className='mx-auto mt-2'>
+                // <div className='row bg-info p-1 m-0' >
+                //     {/* col-1 */}
+                //     <div className='col-6 '>
+                //         <div className='row crudbluelinetext'>
+                //          <div className='col-9 p-0 border-2 border-end text-center'>
+                //             <p className='float-start ps-1 m-0'>Item</p>
+                //          </div>
+                //          <div className='col-3 p-0  border-2 border-end text-center'>
+                //            <p className='m-0'>Price</p>
+                //          </div>
+                //         </div>
+                //     </div>
+                //     {/* col-2 */}
+                //     <div className='col-6'  >
+
+                //         <div className='row crudbluelinetext'>
+                //             <div className='col-4 p-0  border-2 border-end text-center'>
+                //                 <p className='m-0'>Qty/Amt</p>
+                //             </div>
+                //             <div className='col-4 p-0  border-2 border-end text-center'>
+                //                 <p className='m-0'>Discount</p>
+                //             </div>
+                //             <div className='col-4 p-0  border-2  text-center'>
+                //                 <p className='m-0'>Total</p>
+                //             </div>
+                //         </div>
+
+                //     </div>
+                // </div>
+                // </div>

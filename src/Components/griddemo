@@ -1,0 +1,264 @@
+                        <!-- <div class="row row-cols-1 row-cols-md-3 g-1 prodect-img-text ">
+                            <div class="col">
+                                <div class="card h-100 text-center">
+                                    <div class="card-header p-1" id="card-h-f">
+                                        <small class="text-body-secondary">Fr 20000. 00</small>
+                                    </div>
+                                    <img src={img1} class=" prodectimg" alt="..." />
+                                    <div class="card-footer p-1 " id="card-h-f">
+                                        <small class="text-body-secondary fw-bold ">Prueba(010)</small>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card h-100 text-center">
+                                    <div class="card-header p-1" id="card-h-f">
+                                        <small class="text-body-secondary ">Fr 10. 00</small>
+                                    </div>
+                                    <img src={img1} class=" prodectimg" alt="..." />
+                                    <div class="card-footer p-1 " id="card-h-f">
+                                        <small class="text-body-secondary fw-bold ">Pj(011)</small>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card h-100 text-center">
+                                    <div class="card-header p-1" id="card-h-f">
+                                        <small class="text-body-secondary">Fr 200. 00</small>
+                                    </div>
+                                    <img src={img1} class=" prodectimg" alt="..." />
+                                    <div class="card-footer p-1" id="card-h-f">
+                                        <small class="text-body-secondary fw-bold ">Rice(00889)</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        {/* row-2 */}
+
+                        <div class="row row-cols-1 row-cols-md-3 g-1 prodect-img-text mt-1">
+                            <div class="col">
+                                <div class="card h-100 text-center">
+                                    <div class="card-header p-1" id="card-h-f">
+                                        <small class="text-body-secondary">Fr 20000. 00</small>
+                                    </div>
+                                    <img src={img1} class=" prodectimg" alt="..." />
+                                    <div class="card-footer p-1 " id="card-h-f">
+                                        <small class="text-body-secondary fw-bold ">Prueba(010)</small>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card h-100 text-center">
+                                    <div class="card-header p-1" id="card-h-f">
+                                        <small class="text-body-secondary ">Fr 10. 00</small>
+                                    </div>
+                                    <img src={img1} class=" prodectimg" alt="..." />
+                                    <div class="card-footer p-1 " id="card-h-f">
+                                        <small class="text-body-secondary fw-bold ">Pj(011)</small>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card h-100 text-center">
+                                    <div class="card-header p-1" id="card-h-f">
+                                        <small class="text-body-secondary">Fr 200. 00</small>
+                                    </div>
+                                    <img src={img1} class=" prodectimg" alt="..." />
+                                    <div class="card-footer p-1" id="card-h-f">
+                                        <small class="text-body-secondary fw-bold ">Rice(00889)</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        {/* row-3 */}
+
+                        <div class="row row-cols-1 row-cols-md-3 g-1 prodect-img-text mt-1">
+                            <div class="col">
+                                <div class="card h-100 text-center">
+                                    <div class="card-header p-1" id="card-h-f">
+                                        <small class="text-body-secondary">Fr 20000. 00</small>
+                                    </div>
+                                    <img src={img1} class=" prodectimg" alt="..." />
+                                    <div class="card-footer p-1 " id="card-h-f">
+                                        <small class="text-body-secondary fw-bold ">Prueba(010)</small>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card h-100 text-center">
+                                    <div class="card-header p-1" id="card-h-f">
+                                        <small class="text-body-secondary ">Fr 10. 00</small>
+                                    </div>
+                                    <img src={img1} class=" prodectimg" alt="..." />
+                                    <div class="card-footer p-1 " id="card-h-f">
+                                        <small class="text-body-secondary fw-bold ">Pj(011)</small>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card h-100 text-center">
+                                    <div class="card-header p-1" id="card-h-f">
+                                        <small class="text-body-secondary">Fr 200. 00</small>
+                                    </div>
+                                    <img src={img1} class=" prodectimg" alt="..." />
+                                    <div class="card-footer p-1" id="card-h-f">
+                                        <small class="text-body-secondary fw-bold ">Rice(00889)</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        {/* row-4 */}
+
+                        <div class="row row-cols-1 row-cols-md-3 g-1 prodect-img-text mt-1">
+                            <div class="col">
+                                <div class="card h-100 text-center">
+                                    <div class="card-header p-1" id="card-h-f">
+                                        <small class="text-body-secondary">Fr 20000. 00</small>
+                                    </div>
+                                    <img src={img1} class=" prodectimg" alt="..." />
+                                    <div class="card-footer p-1 " id="card-h-f">
+                                        <small class="text-body-secondary fw-bold ">Prueba(010)</small>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card h-100 text-center">
+                                    <div class="card-header p-1" id="card-h-f">
+                                        <small class="text-body-secondary ">Fr 10. 00</small>
+                                    </div>
+                                    <img src={img1} class=" prodectimg" alt="..." />
+                                    <div class="card-footer p-1 " id="card-h-f">
+                                        <small class="text-body-secondary fw-bold ">Pj(011)</small>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card h-100 text-center">
+                                    <div class="card-header p-1" id="card-h-f">
+                                        <small class="text-body-secondary">Fr 200. 00</small>
+                                    </div>
+                                    <img src={img1} class=" prodectimg" alt="..." />
+                                    <div class="card-footer p-1" id="card-h-f">
+                                        <small class="text-body-secondary fw-bold ">Rice(00889)</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        {/* row-5 */}
+
+                        <div class="row row-cols-1 row-cols-md-3 g-1 prodect-img-text mt-1">
+                            <div class="col">
+                                <div class="card h-100 text-center">
+                                    <div class="card-header p-1" id="card-h-f">
+                                        <small class="text-body-secondary">Fr 20000. 00</small>
+                                    </div>
+                                    <img src={img1} class=" prodectimg" alt="..." />
+                                    <div class="card-footer p-1 " id="card-h-f">
+                                        <small class="text-body-secondary fw-bold ">Prueba(010)</small>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card h-100 text-center">
+                                    <div class="card-header p-1" id="card-h-f">
+                                        <small class="text-body-secondary ">Fr 10. 00</small>
+                                    </div>
+                                    <img src={img1} class=" prodectimg" alt="..." />
+                                    <div class="card-footer p-1 " id="card-h-f">
+                                        <small class="text-body-secondary fw-bold ">Pj(011)</small>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card h-100 text-center">
+                                    <div class="card-header p-1" id="card-h-f">
+                                        <small class="text-body-secondary">Fr 200. 00</small>
+                                    </div>
+                                    <img src={img1} class=" prodectimg" alt="..." />
+                                    <div class="card-footer p-1" id="card-h-f">
+                                        <small class="text-body-secondary fw-bold ">Rice(00889)</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        {/* row-6 */}
+
+                        <div class="row row-cols-1 row-cols-md-3 g-1 prodect-img-text mt-1">
+                            <div class="col">
+                                <div class="card h-100 text-center">
+                                    <div class="card-header p-1" id="card-h-f">
+                                        <small class="text-body-secondary">Fr 20000. 00</small>
+                                    </div>
+                                    <img src={img1} class=" prodectimg" alt="..." />
+                                    <div class="card-footer p-1 " id="card-h-f">
+                                        <small class="text-body-secondary fw-bold ">Prueba(010)</small>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card h-100 text-center">
+                                    <div class="card-header p-1" id="card-h-f">
+                                        <small class="text-body-secondary ">Fr 10. 00</small>
+                                    </div>
+                                    <img src={img1} class=" prodectimg" alt="..." />
+                                    <div class="card-footer p-1 " id="card-h-f">
+                                        <small class="text-body-secondary fw-bold ">Pj(011)</small>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card h-100 text-center">
+                                    <div class="card-header p-1" id="card-h-f">
+                                        <small class="text-body-secondary">Fr 200. 00</small>
+                                    </div>
+                                    <img src={img1} class=" prodectimg" alt="..." />
+                                    <div class="card-footer p-1" id="card-h-f">
+                                        <small class="text-body-secondary fw-bold ">Rice(00889)</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        {/* row-7 */}
+                        <div class="row row-cols-1 row-cols-md-3 g-1 prodect-img-text mt-1">
+                            <div class="col">
+                                <div class="card h-100 text-center">
+                                    <div class="card-header p-1" id="card-h-f">
+                                        <small class="text-body-secondary">Fr 20000. 00</small>
+                                    </div>
+                                    <img src={img1} class=" prodectimg" alt="..." />
+                                    <div class="card-footer p-1 " id="card-h-f">
+                                        <small class="text-body-secondary fw-bold ">Prueba(010)</small>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card h-100 text-center">
+                                    <div class="card-header p-1" id="card-h-f">
+                                        <small class="text-body-secondary ">Fr 10. 00</small>
+                                    </div>
+                                    <img src={img1} class=" prodectimg" alt="..." />
+                                    <div class="card-footer p-1 " id="card-h-f">
+                                        <small class="text-body-secondary fw-bold ">Pj(011)</small>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <div class="card h-100 text-center">
+                                    <div class="card-header p-1" id="card-h-f">
+                                        <small class="text-body-secondary">Fr 200. 00</small>
+                                    </div>
+                                    <img src={img1} class=" prodectimg" alt="..." />
+                                    <div class="card-footer p-1" id="card-h-f">
+                                        <small class="text-body-secondary fw-bold ">Rice(00889)</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div> -->
